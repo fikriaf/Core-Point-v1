@@ -62,7 +62,7 @@ python CorePoint.py
 ## 📌 Notes
 
 - This app is built using `tkinter` and compiled with `pyinstaller`.
-- Python installation is **not required** to run `CorePoint.exe`.
+- Python installation is not required to run `CorePoint.exe`.
 
 ---
 
